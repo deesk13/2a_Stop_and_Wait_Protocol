@@ -1,7 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
-NAME: DEVA DHARSHINI I
+# NAME: DEVA DHARSHINI I
 
-REGISTER NO: 212223240026
+# REGISTER NO: 212223240026
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
